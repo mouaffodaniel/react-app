@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nom": "Dupont",
+            "email": "dupont@email.com",
+            "password": "1234"
+        }
+    ]
+}
+```
+
+---
+
+**3. Teste dans le navigateur** en allant sur :
+```
+http: //localhost:3000/users
