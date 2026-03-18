@@ -93,7 +93,7 @@ function Connexion() {
 
                             <p className="text-center mt-3">
                                 Pas encore inscrit ?{" "}
-                                <a href="#" onClick={(e) => { e.preventDefault(); navigate("/inscription"); }} className="text-decoration-none">
+                                <a href="#" onClick={(e) => { e.preventDefault(); navigate("/insertion"); }} className="text-decoration-none">
                                     S'inscrire ici
                                 </a>
                             </p>
